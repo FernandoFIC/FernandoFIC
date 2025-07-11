@@ -7,7 +7,7 @@
 
 - 👯 Estou colaborando com meu grupo de pesquisa, o [GPTCode](http://dgp.cnpq.br/dgp/faces/consulta/consulta_parametrizada.jsf) em um [Site para nosso Grupo](https://github.com/davirfb/Site-GPTcode)
 
-- 📫 Me contate aqui **fernando65620@estudante.ifb.edu.br**
+- 📫 Me contate aqui: **fernando65620@estudante.ifb.edu.br**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
